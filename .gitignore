@@ -1,0 +1,13 @@
+# Ignore Anaconda environment folder
+myenv/
+
+# Ignore SageMaker model or data files (adjust as necessary)
+*.pkl
+*.h5
+*.csv
+*.log
+*.env
+
+# Ignore other temporary files
+*.DS_Store
+.ipynb_checkpoints/
